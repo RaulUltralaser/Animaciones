@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/raul/Documentos/Programas/Codigo/Manim/media/videos/Manim/720p30/partial_movie_files/ErdosRenyiGraph/274514146_3486487221_223132457.mp4'
+file 'file:/home/raul/Documentos/Programas/Codigo/Manim/media/videos/Manim/720p30/partial_movie_files/ErdosRenyiGraph/2789044632_1196199511_2400315458.mp4'
+file 'file:/home/raul/Documentos/Programas/Codigo/Manim/media/videos/Manim/720p30/partial_movie_files/ErdosRenyiGraph/2789044632_3069048812_920872490.mp4'

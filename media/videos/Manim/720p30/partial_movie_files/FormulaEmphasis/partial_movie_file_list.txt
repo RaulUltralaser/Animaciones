@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/raul/Documentos/Programas/Codigo/Manim/media/videos/Manim/720p30/partial_movie_files/FormulaEmphasis/274514146_3517244184_223132457.mp4'
+file 'file:/home/raul/Documentos/Programas/Codigo/Manim/media/videos/Manim/720p30/partial_movie_files/FormulaEmphasis/2789044632_3613292726_4215758791.mp4'
+file 'file:/home/raul/Documentos/Programas/Codigo/Manim/media/videos/Manim/720p30/partial_movie_files/FormulaEmphasis/2789044632_329969645_544594097.mp4'
+file 'file:/home/raul/Documentos/Programas/Codigo/Manim/media/videos/Manim/720p30/partial_movie_files/FormulaEmphasis/2789044632_3679278382_3697461724.mp4'
+file 'file:/home/raul/Documentos/Programas/Codigo/Manim/media/videos/Manim/720p30/partial_movie_files/FormulaEmphasis/2789044632_329969645_2471417011.mp4'

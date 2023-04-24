@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/raul/Documentos/Programación/Codigo/Manim/Curso/media/videos/Curso/720p30/partial_movie_files/FadeInExample/274514146_662289174_2358810818.mp4'
+file 'file:/home/raul/Documentos/Programación/Codigo/Manim/Curso/media/videos/Curso/720p30/partial_movie_files/FadeInExample/2789044632_2358420384_2518302207.mp4'
+file 'file:/home/raul/Documentos/Programación/Codigo/Manim/Curso/media/videos/Curso/720p30/partial_movie_files/FadeInExample/2789044632_2015280392_3560946380.mp4'
+file 'file:/home/raul/Documentos/Programación/Codigo/Manim/Curso/media/videos/Curso/720p30/partial_movie_files/FadeInExample/2789044632_1996061917_1394981300.mp4'

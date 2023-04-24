@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/raul/Documentos/programas/Codigo/Manim/media/videos/Manim/720p30/partial_movie_files/TransformEquation/274514146_1804042621_104527544.mp4'
+file 'file:/home/raul/Documentos/programas/Codigo/Manim/media/videos/Manim/720p30/partial_movie_files/TransformEquation/2789044632_2690583405_230770454.mp4'
+file 'file:/home/raul/Documentos/programas/Codigo/Manim/media/videos/Manim/720p30/partial_movie_files/TransformEquation/2789044632_3315967912_2508565042.mp4'
+file 'file:/home/raul/Documentos/programas/Codigo/Manim/media/videos/Manim/720p30/partial_movie_files/TransformEquation/2789044632_1069367407_4121291445.mp4'
+file 'file:/home/raul/Documentos/programas/Codigo/Manim/media/videos/Manim/720p30/partial_movie_files/TransformEquation/207390714_3315967912_1470973805.mp4'
